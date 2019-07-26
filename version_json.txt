@@ -1,0 +1,9 @@
+{
+  "update": "Yes",
+  "new_version": "3.7.2",
+  "apk_file_url": "http://www.jianshetong.net/soft/cbi360_jst.apk",
+  "update_log": "1，优化性能，提示体验。\r\n2，优化性能，提示体验。\r\n3，优化性能，提示体验。",
+  "target_size": "5M",
+  "new_md5":"b97bea014531123f94c3ba7b7afbaad2",
+  "constraint": false
+}
