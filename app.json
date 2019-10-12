@@ -1,5 +1,9 @@
 {
-    "hide_wx": "1",
-    "api_url": "https://apiappjst.cbi360.net",
-    "message": "提示内容"
+    "Code" : 200,
+    "Msg" : "成功",
+    "Result" : {
+        "hide_wx": "1",
+        "api_url": "https://apiappjst.cbi360.net",
+        "flag": ""
+    }
 }
