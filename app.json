@@ -11,6 +11,6 @@
         "Icon" : 0,
         "IsVerifying" : "3.8.8",
         "HideWX": "1",
-        "ApiUrl": "http://apiappjst.jianshetong.net/",
+        "ApiUrl": "https://apiappjst.jianshetong.net/",
     }
 }
