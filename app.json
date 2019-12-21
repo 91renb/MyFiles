@@ -1,1 +1,15 @@
-{}
+ {
+     "Code" : 200,
+     "Msg" : "成功",
+-    "Result" : {
+-        "Version" : "3.9.0",
+-        "VersionInfo" : "更新内容",
+-        "DownloadUrl" : "itms-apps:\/\/itunes.apple.com\/cn\/app\/id771635384?mt=8",
+-        "IsLatestVersion" : true,
+-        "ForceUpdate" : false,
+-        "ApiUrl": "https://apiappjst.jianshetong.net/",
+         "ImageBaseUrl": "https://img.cbi360.net",
+         "WebPageBaseUrl" : "https://app.jianshetong.net"
+-    }
+ }
+
