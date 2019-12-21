@@ -1,16 +1,5 @@
 {
     "Code" : 200,
     "Msg" : "成功",
-    "Result" : {
-        "Version" : "3.8.8",
-        "VersionInfo" : "本次更新\r\n1、适配 iOS 13 系统\r\n2、优化在线支付\r\n3、优化组合查询交互\r\n\r\n近期更新\r\n1、新增一人多证查询功能\r\n2、添加组合查询明细页\r\n3、添加发现模块和活动页\r\n4、新增信用评价功能\r\n5、企业详情页改版\r\n6、企业人员和资质支持属地化查询",
-        "DownloadUrl" : "itms-apps:\/\/itunes.apple.com\/cn\/app\/id771635384?mt=8",
-        "UpdateUrl" : null,
-        "IsLatestVersion" : true,
-        "ForceUpdate" : false,
-        "Icon" : 0,
-        "IsVerifying" : "3.8.8",
-        "HideWX": "1",
-        "ApiUrl": "https://apiappjst.jianshetong.net/",
-    }
+    "Result" : {}
 }
