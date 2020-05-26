@@ -1,17 +1,1 @@
-{
-  "Code" : 200,
-  "Msg" : "",
-  "Result" : {
-    "Version" : "3.8.5",
-    "VersionInfo" : "升级内容升级内容升级内容升级内容升级内容升级内容升级内容升级内容升级内容升级内容升级内容升级内容",
-    "DownloadUrl" : "https://itunes.apple.com/cn/app/id771635384?mt=8",
-    "UpdateUrl" : null,
-    "VerifyUrl" : null,
-    "IsLatestVersion" : true,
-    "ForceUpdate" : false,
-    "IsVerifying" : "3.5.2",
-    "ApiUrl": "https://testapiappjst.cbi360.net/",
-    "ImageBaseUrl": "https://img.cbi360.net",
-    "WebPageBaseUrl": "https://app.jianshetong.net"
-  }
-}
+{}
